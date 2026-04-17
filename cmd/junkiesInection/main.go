@@ -6,7 +6,7 @@ import (
 	"github.com/alhaos/junkiesInection/internal/model"
 )
 
-const count = 1000000
+const count = 1_000_000
 
 func main() {
 
